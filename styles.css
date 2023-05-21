@@ -1,2 +1,23 @@
+table, th {
+	border: 1px solid;
+}
+.col{
+	border: 1px solid;
+	padding: 50% 0 50% 0;
+} 
+.innerTable{
+	border: 1px solid;
+	width: 100%;
+}
+.tableHeading{
+	border: 1px solid;
+	width:100%;
+}
 
-/* Your CSS Code here. */
+/* .nestedTh{
+	width: 100%;
+}
+.innerCol{
+	margin: 0 auto;
+}
+*/
