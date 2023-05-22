@@ -1,23 +1,26 @@
+body{
+	display: block;
+}
 table, th {
 	border: 1px solid;
 }
 .col{
 	border: 1px solid;
-	padding: 50% 0 50% 0;
+	padding: 5% 0 5% 0;
 } 
 .innerTable{
 	border: 1px solid;
 	width: 100%;
+
 }
 .tableHeading{
 	border: 1px solid;
-	width:100%;
+}
+.tData{
+	border: 1px solid;
+}
+.li{
+	padding: 0 0 0 40%;
 }
 
-/* .nestedTh{
-	width: 100%;
-}
-.innerCol{
-	margin: 0 auto;
-}
 */
